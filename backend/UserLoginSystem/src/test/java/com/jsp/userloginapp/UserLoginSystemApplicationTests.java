@@ -1,10 +1,10 @@
-package com.jsp.demoapp;
+package com.jsp.userloginapp;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class DemoAppApplicationTests {
+class UserLoginSystemApplicationTests {
 
 	@Test
 	void contextLoads() {
